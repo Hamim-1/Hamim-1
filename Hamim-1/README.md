@@ -1,6 +1,6 @@
 ![I am harun181](https://github.com/Hamim-1/Hamim-1/blob/main/Hamim-1/code.png)
 
-<h1 align="center">Hi 👋, I'm HARUN UR ROSHID(Tutul)</h1>
+<h1 align="center">Hi 👋, I'm Hafijur Rahman (Hamim)</h1>
 <h3 align="center">Programmer | Frontend Web Designer | Speed Learner</h3>
 <h4 align="center">Student of Hablu Programmer</h4>
 
@@ -93,7 +93,7 @@ Skills: TAILWIND/ BOOTSTRAP / REACT / JS / HTML / CSS
   <br/>
 </a>
 
-![Harun's Graph](https://github-readme-activity-graph.vercel.app/graph?username=harun181&custom_title=Harun's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Harun's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Hamim-1&custom_title=Harun's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 <br/>
 
@@ -106,10 +106,10 @@ Skills: TAILWIND/ BOOTSTRAP / REACT / JS / HTML / CSS
 <a href="https://twitter.com/tutul181" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px; margin-right: 2px;" />
 </a>
-<a href="https://www.linkedin.com/in/harun181/" target="_blank">
+<a href="[https://www.linkedin.com/in/harun181/](https://www.linkedin.com/in/hafijur-rahman-0796ab27a/)" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px; margin-right: 2px;" />
 </a>
-<a href="https://www.facebook.com/tutul181" target="_blank">
+<a href="[https://www.facebook.com/tutul181](https://www.facebook.com/hafijurrahman.hamim.7)" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px; margin-right: 2px;" />
 </a>  
 </div>
