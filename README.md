@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Hafijur Rahman (Hamim)</h1>
 <h3 align="center">Programmer | Full Stack Web Developer | Speed Learner</h3>
-<h4 align="center">Student of Hablu Programmer</h4>
+<h4 align="center">Student of Programming Hero</h4>
 
 <div align="center">
 
