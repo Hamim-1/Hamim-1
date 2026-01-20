@@ -1,7 +1,7 @@
 ![I am Hamim-1](https://github.com/Hamim-1/Hamim-1/blob/main/Hamim-1/code.png)
 
 <h1 align="center">Hi 👋, I'm Hafijur Rahman (Hamim)</h1>
-<h3 align="center">Programmer | Frontend Web Designer | Speed Learner</h3>
+<h3 align="center">Programmer | Full Stack Web Developer | Speed Learner</h3>
 <h4 align="center">Student of Hablu Programmer</h4>
 
 <div align="center">
@@ -12,7 +12,7 @@ Skills: TAILWIND/ BOOTSTRAP / REACT / JS / HTML / CSS
 
 </div>
 
-- 🔭 I’m currently learning on [Hablu Programmer](https://www.hablu-programmer.com/)
+- 🔭 I’m currently learning on [Programming Hero]([https://www.hablu-programmer.com/](https://www.programming-hero.com/))
 
 - 🌱 I’m currently learning React
 
