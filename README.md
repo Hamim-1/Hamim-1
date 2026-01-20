@@ -12,7 +12,7 @@ Skills: TAILWIND/ BOOTSTRAP / REACT / JS / HTML / CSS
 
 </div>
 
-- 🔭 I’m currently learning on [Programming Hero]([https://www.hablu-programmer.com/](https://www.programming-hero.com/))
+- 🔭 I’m currently learning on [Programming Hero]([https://www.programming-hero.com/])
 
 - 🌱 I’m currently learning React
 
