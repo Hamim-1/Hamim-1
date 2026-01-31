@@ -8,17 +8,17 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=Hamim-1&color=red)
 
-Skills: TAILWIND/ BOOTSTRAP / REACT / JS / HTML / CSS
+Skills: REACT/ NODE / NEXT / JS / EXPRESS / MONGO DB
 
 </div>
 
 - 🔭 I’m currently learning on [Programming Hero]([https://www.programming-hero.com/])
 
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning PostgreSQL
 
-- 👨‍💻 All of my projects are available at [https://github.com/Hamim-1](https://github.com/Hamim-1)
+- 👨‍💻 All of my projects are available at [Hamim-1](https://github.com/Hamim-1)
 
-- 💬 Ask me about **HTML5, CSS3, JS, Bootstrap**
+- 🌐 Explore My Portfolio **[Hafijur Rahman](https://hafijur-rahman-portfolio.onrender.com/)**
 
 - 📫 How to reach me **hafijur.codes@gmail.com**
 
@@ -87,7 +87,7 @@ Skills: TAILWIND/ BOOTSTRAP / REACT / JS / HTML / CSS
 
 ## Best Repo -
 
-[![Ecommerce App](https://github-readme-stats.vercel.app/api/pin/?username=Hamim-1&repo=Assignment-8&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Hamim-1/RAFCART)
+[![Ecommerce App](https://github-readme-stats.vercel.app/api/pin/?username=Hamim-1&repo=Assignment-8-frontend&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Hamim-1/RAFCART)
 [![Parcel Delivery](https://github-readme-stats.vercel.app/api/pin/?username=Hamim-1&repo=Assignment-6&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Hamim-1/Color-Picker)
 [![Front End Projects](https://github-readme-stats.vercel.app/api/pin/?username=Hamim-1&repo=pin-matcher&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Hamim-1/pin-matcher)
 [![Weblitical](https://github-readme-stats.vercel.app/api/pin/?username=Hamim-1&repo=CALCULATOR&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Hamim-1/CALCULATOR)
