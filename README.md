@@ -87,10 +87,8 @@ Skills: REACT/ NODE / NEXT / JS / EXPRESS / MONGO DB
 
 ## Best Repo -
 
-[![Ecommerce App](https://github-readme-stats.vercel.app/api/pin/?username=Hamim-1&repo=Assignment-8-frontend&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Hamim-1/RAFCART)
-[![Parcel Delivery](https://github-readme-stats.vercel.app/api/pin/?username=Hamim-1&repo=Assignment-6&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Hamim-1/Color-Picker)
-[![Front End Projects](https://github-readme-stats.vercel.app/api/pin/?username=Hamim-1&repo=pin-matcher&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Hamim-1/pin-matcher)
-[![Weblitical](https://github-readme-stats.vercel.app/api/pin/?username=Hamim-1&repo=CALCULATOR&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Hamim-1/CALCULATOR)
+[![Ecommerce App](https://github-readme-stats.vercel.app/api/pin/?username=Hamim-1&repo=Assignment-8-frontend&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Hamim-1/Assignment-8-frontend)
+[![Parcel Delivery](https://github-readme-stats.vercel.app/api/pin/?username=Hamim-1&repo=Assignment-6&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Hamim-1/Assignment-6)
 
 <p align="left">
   <a href="https://github.com/Hamim-1?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
